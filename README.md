@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **bsurumcuoglu@gmail.com**
 
-- ⚡ Fun fact **I play LoL and CoD Warzone in my spare time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
