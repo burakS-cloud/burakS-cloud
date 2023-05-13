@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraks-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="buraks-cloud" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, SASS**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://buraksurumcuoglu.netlify.app/](https://buraksurumcuoglu.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://buraksurumcuoglu.netlify.app/](https://buraksurumcuoglu.netlify.app/)
 
 - 💬 Ask me about **React, Node.js, CSS**
 
