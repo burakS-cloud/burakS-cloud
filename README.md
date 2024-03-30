@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak Sürümcüoğlu.</h1>
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<h3 align="center">A passionate fullstack developer based in Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraks-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="buraks-cloud" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 Some of my projects are available at [https://buraksurumcuoglu.netlify.app/](https://buraksurumcuoglu.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://buraks-portfolio.vercel.app/](https://buraks-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Node.js, CSS**
 
